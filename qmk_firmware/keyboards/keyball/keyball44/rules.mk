@@ -1,4 +1,4 @@
-# CONVERT_TO=promicro_rp2040
+CONVERT_TO=promicro_rp2040
 
 # MCU name
 MCU = RP2040
